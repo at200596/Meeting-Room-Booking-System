@@ -1,0 +1,84 @@
+Files in Java might be tricky, but it is fun enough!Room5, Taylor, @gmail.com, Morning, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, null
+hi
+Room2, Taylor, ailiseataylor@gmail.com, All Day, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Afternoon
+hi
+Room1, Taylor, ailise..@gmail.com, Morning, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, null
+hi
+Room4, Taylor, ailise@gmail.com, All Day, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Afternoon
+hi
+Room1, Taylor, ailise@gmail.com, Afternoon, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Afternoon
+hi
+Room1, taylor, ailise@gmail.com, Morning, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Morning
+hi
+Room1, taylor, ailise@gmail.com, Morning, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Morning
+hi
+Room1, Smith, amie@gmail.com, Afternoon, [Ljava.lang.String;@55f96302, 124, [Ljava.lang.String;@3d4eac69, Afternoon
+hi
+Room1, Taylor, ailise@gmail.com, Afternoon, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Afternoon
+hi
+Room1, Taylor, ailise@gmail.com, All Day, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Morning
+hi
+Room1, Taylor, ailise@gmail.com, All Day, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Morning
+hi
+Room1, taylor, amie@gmail.com, All Day, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Morning
+hi
+Room5, Taylor, ailise@gmail.com, Afternoon, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Afternoon
+hi
+Room3, Taylor, ailise@gmail.com, Morning, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Morning
+hi
+Room4, Taylor, ailise@gmail.com, Afternoon, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, Afternoon, true
+hi
+Room5, Taylor, ailise@gmail.com, All Day, [Ljava.lang.String;@55f96302, 123, [Ljava.lang.String;@3d4eac69, null, true
+hi
+Room1, Taylor, Ailise@gmail.com, Morning, [Pens and Paper, Whiteboard], 123, [Ljava.lang.String;@55f96302, null, true
+hi
+Room1, Taylor, Ailise@gmail.com, Morning, [Pens and Paper, Whiteboard, Whiteboard], 123, [Ljava.lang.String;@55f96302, null, true
+hi
+Room2, Smith, john@hotmail.com, Afternoon, [Pens and Paper, Whiteboard, Whiteboard], 124, [Ljava.lang.String;@55f96302, null, true
+hi
+Room1, Taylor, ailise@gmail.com, All Day, [Whiteboard], 123, [Ljava.lang.String;@55f96302, null, true
+hi
+Room1, Taylor, ailise@gmail.com, All Day, [Pens and Paper, Whiteboard], 123, [Ljava.lang.String;@55f96302, null, true
+hi
+Room2, Smith, john@gmail.com, Morning, [Pens and Paper, Whiteboard], 124, [Ljava.lang.String;@55f96302, null, true
+hi
+Room5, Taylor, ailise@gmail.com, Afternoon, [Projector], 123, [Sandwiches], Afternoon, true
+hi
+Room1, smith, smith@gmail.com, All Day, [No resources], 123, [No refreshments], null, true
+hi
+Room1, smith, smith@gmail.com, All Day, [Whiteboard], 123, [], null, true
+hi
+Room3, Taylor, Ailise@gmail.com, All Day, [Whiteboard], 124, [Coffee], Morning, true
+hi
+Room1, smith, smith@gmail.com, All Day, [], 123, [], null, true
+hi
+Room3, Taylor, Ailise@gmail.com, All Day, [], 124, [No refreshments], Morning, true
+hi
+Room5, amie, amie@gmail.com, Afternoon, [], 125, [No refreshments], Morning, true
+hi
+Room1, smith, smith@gmail.com, All Day, [Whiteboard], 123, [], null, true
+hi
+Room3, Taylor, Ailise@gmail.com, All Day, [Whiteboard], 124, [Water], Morning, true
+hi
+Room5, amie, amie@gmail.com, Afternoon, [Whiteboard], 125, [Water], Morning, true
+hi
+Room5, Huny, huny@hotmail.com, Morning, [Whiteboard], 126, [Water], Morning, true
+hi
+Room1, Taylor, ailise@gmail.com, Morning, [No resources], 123, [Sandwiches], Morning
+hi
+Room1, Taylor, ailise@gmail.com, Afternoon, [No resources], 123, [Coffee], Afternoon
+hi
+Room3, Smith, smith@gmail.com, null, [Whiteboard, Pens and Paper], [No refreshments], null
+hi
+Room3, Smith, smith@gmail.com, null, [], [No refreshments], null
+hi
+Room5, Taylor, taylor@gmail.co, Morning, [], [No refreshments], null
+hi
+Room3, Smith, smith@gmail.com, null, [Projector], [], null
+hi
+Room5, Taylor, taylor@gmail.co, Morning, [Projector], [], null
+hi
+Room1, John, john@gmail.com, All Day, [Projector], [Bagels], Afternoon
+hi
+Room4, Taylor, taylor@gmail.com, All Day, [Whiteboard, Pens and Paper], [Water, Pastries], Afternoon
+hi
